@@ -162,6 +162,7 @@ footer p {
     overflow: auto;
     text-align: center;
     box-sizing: border-box;
+    
 
 }
 
@@ -173,4 +174,14 @@ article div p {
     margin: 0;
     padding: 3%;
     box-sizing: border-box;
+}
+
+
+/* img on About */
+.about-image {
+    
+    width: auto;
+    height: 250px;
+    
+
 }
